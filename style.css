@@ -1,0 +1,93 @@
+#logo a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.topo{
+    background: #485563;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #29323c, #485563);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #29323c, #485563); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+    padding: 1% 1%;
+}
+.topo li {
+    margin-right: 2%;
+    list-style: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 12px;
+    padding: 5px 5px 5px 5px;
+
+   
+}
+
+.topo li a {
+    text-decoration: none;
+    color: white;
+}
+
+.topo li:hover{
+    border: solid 2px white;
+    border-radius: 5px;
+
+    
+}
+#divisao{
+    background: #a3bec7;
+    width: 100%;
+    height: 1%;
+    color:#a3bec7; 
+}
+
+.imgp1{
+    width: 100%;
+    height: 500px;
+    
+}
+
+.carousel-caption h5{
+    background: #021B79;
+    display: inline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 42px;
+    border-radius: 30px;
+    padding: 0 15px 0 15px;
+    
+}
+
+.carousel-caption{
+    margin-bottom: 120px;
+}
+
+.marca{
+    width: 30%;
+   
+}
+
+.titulo-marcas{
+    color: #021B79;
+}
+
+
+
+footer{
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+background-color: #02090c;
+background-image: linear-gradient(0deg, #02090c 0%, #101c16 50%, #100e0e 100%);
+
+
+
+ color: white;
+}
+
+footer p{
+   
+    font-size: 12px;   
+
+}
+
+
